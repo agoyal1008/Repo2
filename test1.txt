@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 60F4-86DF
+
+ Directory of C:\Users\admin\Desktop\MyProject
+
+02/13/2020  09:51 AM    <DIR>          .
+02/13/2020  09:51 AM    <DIR>          ..
+02/13/2020  09:51 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,624,409,600 bytes free
